@@ -1,0 +1,16 @@
+{
+  "name": "gullible-galaxy",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@xata.io/client": "^0.26.6",
+    "astro": "^3.1.4"
+  }
+}
