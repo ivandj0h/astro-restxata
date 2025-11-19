@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "@xata.io/client": "^0.26.6",
-    "astro": "^5.14.3"
+    "astro": "^5.15.9"
   }
 }
